@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Most-Excellent-Portfolio/static/css/main.6d97cba1.chunk.css",
+    "main.js": "/Most-Excellent-Portfolio/static/js/main.26f9226c.chunk.js",
+    "main.js.map": "/Most-Excellent-Portfolio/static/js/main.26f9226c.chunk.js.map",
+    "runtime-main.js": "/Most-Excellent-Portfolio/static/js/runtime-main.31c928b0.js",
+    "runtime-main.js.map": "/Most-Excellent-Portfolio/static/js/runtime-main.31c928b0.js.map",
+    "static/css/2.658248ec.chunk.css": "/Most-Excellent-Portfolio/static/css/2.658248ec.chunk.css",
+    "static/js/2.33b75606.chunk.js": "/Most-Excellent-Portfolio/static/js/2.33b75606.chunk.js",
+    "static/js/2.33b75606.chunk.js.map": "/Most-Excellent-Portfolio/static/js/2.33b75606.chunk.js.map",
+    "static/js/3.774475a5.chunk.js": "/Most-Excellent-Portfolio/static/js/3.774475a5.chunk.js",
+    "static/js/3.774475a5.chunk.js.map": "/Most-Excellent-Portfolio/static/js/3.774475a5.chunk.js.map",
+    "index.html": "/Most-Excellent-Portfolio/index.html",
+    "service-worker.js": "/Most-Excellent-Portfolio/service-worker.js",
+    "service-worker.js.map": "/Most-Excellent-Portfolio/service-worker.js.map",
+    "static/css/2.658248ec.chunk.css.map": "/Most-Excellent-Portfolio/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.6d97cba1.chunk.css.map": "/Most-Excellent-Portfolio/static/css/main.6d97cba1.chunk.css.map",
+    "static/js/2.33b75606.chunk.js.LICENSE.txt": "/Most-Excellent-Portfolio/static/js/2.33b75606.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Most-Excellent-Portfolio/static/media/background.8a145ef9.jpg",
+    "static/media/dogtinder.e6ceee54.png": "/Most-Excellent-Portfolio/static/media/dogtinder.e6ceee54.png",
+    "static/media/dumbledore.31fb2645.jpg": "/Most-Excellent-Portfolio/static/media/dumbledore.31fb2645.jpg",
+    "static/media/mars.8b79084d.png": "/Most-Excellent-Portfolio/static/media/mars.8b79084d.png",
+    "static/media/password.7d2fc3a0.png": "/Most-Excellent-Portfolio/static/media/password.7d2fc3a0.png",
+    "static/media/runbuddy.64c45392.png": "/Most-Excellent-Portfolio/static/media/runbuddy.64c45392.png",
+    "static/media/schedule.2321263e.png": "/Most-Excellent-Portfolio/static/media/schedule.2321263e.png",
+    "static/media/weatherboard.0382abb4.png": "/Most-Excellent-Portfolio/static/media/weatherboard.0382abb4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31c928b0.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.33b75606.chunk.js",
+    "static/css/main.6d97cba1.chunk.css",
+    "static/js/main.26f9226c.chunk.js"
+  ]
+}
