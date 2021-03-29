@@ -8,6 +8,7 @@ import weatherboard from '../assets/images/weatherboard.png';
 import schedule from '../assets/images/schedule.png';
 import mars from '../assets/images/mars.png'
 import password from '../assets/images/password.png'
+import moviesearch from '../assets/images/moviesearch.png'
 
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
@@ -65,6 +66,14 @@ class Carousel extends React.Component {
                     subTitle: 'A password generating application',
                     imgSrc: password,
                     link: 'https://jonahbcoding.github.io/Password-Generator/',
+                    selected: false
+                },
+                {
+                    id: 5,
+                    title: 'Movie Search',
+                    subTitle: 'A Movie Searching application',
+                    imgSrc: moviesearch,
+                    link: 'https://shielded-dusk-82497.herokuapp.com/',
                     selected: false
                 },
             ]
