@@ -69,7 +69,7 @@ class Carousel extends React.Component {
                     selected: false
                 },
                 {
-                    id: 5,
+                    id: 6,
                     title: 'Movie Search',
                     subTitle: 'A Movie Searching application',
                     imgSrc: moviesearch,
